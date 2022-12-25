@@ -1,0 +1,2825 @@
+.p-Home.First_Block {
+display: flex;
+justify-content: space-around;
+margin-top: 0px;
+margin-bottom: 0px;
+padding-top: 70px;
+padding-bottom: 20px;
+padding-left: ;
+padding-right: ;
+min-width: ;
+align-self: center;
+align-content: center;
+align-items: center;
+margin-left: 130px;
+margin-right: 130px;
+}
+.p-Home.Flex13 {
+display: flex;
+flex-direction: column;
+min-width: ;
+margin-right: ;
+width: 700px;
+}
+.p-Home.Butoon_Box {
+display: flex;
+justify-content: flex-start;
+width: em;
+align-items: center;
+}
+.p-Home.Flex8 {
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+align-content: flex-start;
+align-self: center;
+padding-top: 80px;
+padding-bottom: 80px;
+margin-right: 240px;
+margin-left: 240px;
+}
+.p-Home.Flex14 {
+display: flex;
+width: ;
+justify-content: space-around;
+min-width: 100%;
+margin-top: 30px;
+}
+.p-Home.Flex15 {
+display: flex;
+flex-direction: row;
+min-width: 100%;
+width: ;
+align-items: center;
+justify-content: center;
+}
+.p-Home.NavBar {
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding-left: 50px;
+padding-right: 50px;
+font-family: IBM Plex Sans;
+font-size: 18px;
+margin-top: ;
+padding-bottom: ;
+padding-top: 20px;
+flex-direction: row;
+align-content: center;
+flex-wrap: nowrap;
+align-self: auto;
+row-gap: ;
+column-gap: ;
+color: #000000ff;
+position: sticky;
+}
+.p-Home.Links {
+display: flex;
+column-gap: 30px;
+color: #1F2937;
+font-family: IBM Plex Sans;
+font-weight: 500;
+align-items: center;
+justify-content: center;
+flex-wrap: nowrap;
+margin-bottom: 18px;
+}
+.p-Home.Flex6 {
+display: flex;
+}
+.p-Home.Flex2 {
+display: flex;
+}
+.p-Home.Flex3 {
+display: none;
+}
+.p-Home.Flex7 {
+display: flex;
+align-items: center;
+column-gap: 10px;
+width: 250px;
+justify-content: flex-end;
+}
+.p-Home.Menu1 {
+display: none;
+}
+.p-Home.Flex1 {
+display: flex;
+}
+.p-Home.Flex16 {
+display: flex;
+padding-top: 80px;
+padding-bottom: 60px;
+margin-left: 196px;
+margin-right: 196px;
+flex-direction: column;
+align-items: center;
+justify-content: flex-end;
+}
+.p-Home.Flex18 {
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+height: 280px;
+}
+.p-Home.Flex17 {
+display: flex;
+flex-direction: column;
+margin-top: 30px;
+}
+.p-Home.Flex19 {
+display: flex;
+min-width: ;
+width: 1098px;
+height: 381px;
+align-items: stretch;
+justify-content: space-between;
+padding-left: ;
+padding-right: ;
+margin-left: 50px;
+margin-right: 50px;
+}
+.p-Home.Flex39 {
+display: flex;
+flex-direction: column;
+padding-bottom: 70px;
+}
+.p-Home.Flex40 {
+display: flex;
+flex-direction: column;
+margin-bottom: 20px;
+padding-bottom: ;
+}
+.p-Home.Flex41 {
+display: flex;
+flex-direction: column;
+padding-bottom: 5px;
+}
+.p-Home.Flex44 {
+display: flex;
+flex-direction: column;
+padding-bottom: 70px;
+}
+.p-Home.Flex42 {
+display: flex;
+flex-direction: column;
+padding-bottom: 5px;
+}
+.p-Home.Flex43 {
+display: flex;
+flex-direction: column;
+margin-bottom: 20px;
+padding-bottom: ;
+}
+.p-Home.Flex47 {
+display: flex;
+flex-direction: column;
+padding-bottom: 70px;
+}
+.p-Home.Flex45 {
+display: flex;
+flex-direction: column;
+padding-bottom: 5px;
+}
+.p-Home.Flex46 {
+display: flex;
+flex-direction: column;
+margin-bottom: 20px;
+padding-bottom: ;
+}
+.p-Home.Flex36 {
+display: flex;
+padding-top: 80px;
+min-width: ;
+min-height: %;
+max-width: 80%;
+align-self: auto;
+width: ;
+height: ;
+margin-left: 70px;
+margin-right: 70px;
+justify-content: space-between;
+align-items: center;
+align-content: center;
+row-gap: 0px;
+column-gap: ;
+}
+.p-Home.Flex48 {
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+}
+.p-Home.Flex49 {
+display: flex;
+align-items: center;
+}
+.p-Home.Flex50 {
+display: flex;
+width: 0px;
+height: 0px;
+border-color: transparent;
+outline-color: transparent;
+}
+.p-Home.Flex12 {
+display: flex;
+background-image: url("/app-assets/roksolana-zasiadko-N_IysxhUdnE-unsplash%20(1).jpg");
+background-attachment: scroll;
+background-origin: border-box;
+background-clip: border-box;
+-webkit-background-clip: border-box;
+background-position-y: 1em;
+background-position-x: 1em;
+clear: none;
+width: 80%;
+height: 100%;
+flex-direction: row;
+min-width: 40%;
+min-height: uapx;
+padding-left: ;
+padding-right: ;
+margin-left: 60px;
+margin-right: 60px;
+}
+.p-Home.Div1 {
+margin-top: 1000px;
+visibility: hidden;
+display: none;
+}
+.p-Home.Flex51 {
+display: none;
+padding-top: 65px;
+padding-bottom: 80px;
+margin-left: 138px;
+margin-right: 138px;
+box-sizing: border-box;
+overflow: scroll;
+flex-direction: row;
+align-items: flex-start;
+justify-content: space-between;
+margin-bottom: 800px;
+}
+.p-Home.Flex52 {
+display: flex;
+flex-direction: column;
+}
+.p-Home.Flex53 {
+display: flex;
+justify-content: flex-start;
+align-items: stretch;
+position: sticky;
+float: none;
+cursor: none;
+align-content: center;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 20px;
+padding-right: 20px;
+align-self: flex-start;
+}
+.p-Home.Div15 {
+display: none;
+}
+.p-Home.Div18 {
+height: 800px;
+margin-bottom: 5000px;
+margin-top: 500px;
+display: none;
+}
+.p-Home.Flex54 {
+display: flex;
+padding-top: 65px;
+padding-bottom: 80px;
+align-items: center;
+justify-content: space-around;
+flex-direction: column;
+}
+.p-Home.Flex55 {
+display: flex;
+width: 800px;
+flex-direction: column;
+align-items: center;
+justify-content: flex-start;
+align-content: center;
+align-self: center;
+color: #fc3c3c;
+background-color: #f3e1ee;
+}
+.p-Home.Div76 {
+display: none;
+}
+.p-Home.Div19 {
+width: ;
+height: 1441px;
+background-color: #020202;
+min-width: 100%;
+}
+.p-Home.Flex57 {
+display: flex;
+width: 692px;
+height: 1300px;
+align-self: auto;
+align-items: center;
+justify-content: space-between;
+flex-direction: column;
+position: relative;
+left: 450px;
+margin-top: ;
+padding-top: ;
+padding-bottom: ;
+background-color: #050505;
+flex-wrap: nowrap;
+align-content: stretch;
+bottom: 120px;
+}
+.p-Home.Flex59 {
+display: flex;
+height: ;
+min-width: 100%;
+background-color: #060606;
+flex-direction: column;
+border-bottom-left-radius: ;
+border-color: #ffffff80;
+border-radius: ;
+border-bottom-width: 0.5px;
+border-bottom-color: #ffffffff;
+border-bottom-style: solid;
+border-width: 0.5px;
+margin-bottom: 20px;
+margin-top: 10px;
+}
+.p-Home.Flex62 {
+display: none;
+height: 200px;
+min-width: 100%;
+background-color: #e49696;
+}
+.p-Home.Flex68 {
+display: none;
+height: 200px;
+min-width: 100%;
+background-color: #060606;
+flex-direction: column;
+border-bottom-left-radius: ;
+border-color: #ffffff;
+border-radius: ;
+border-bottom-width: 2px;
+border-bottom-color: #ffffffff;
+border-bottom-style: solid;
+border-width: 0.5px;
+margin-bottom: 20px;
+margin-top: 10px;
+}
+.p-Home.Flex69 {
+display: none;
+height: 200px;
+min-width: 100%;
+background-color: #060606;
+flex-direction: column;
+border-bottom-left-radius: ;
+border-color: #ffffff;
+border-radius: ;
+border-bottom-width: 2px;
+border-bottom-color: #ffffffff;
+border-bottom-style: solid;
+border-width: 0.5px;
+margin-bottom: 20px;
+margin-top: 10px;
+}
+.p-Home.Flex71 {
+display: flex;
+height: 200px;
+min-width: 100%;
+background-color: #060606;
+flex-direction: column;
+border-bottom-left-radius: ;
+border-color: #ffffff;
+border-radius: ;
+border-bottom-width: 2px;
+border-bottom-color: #ffffffff;
+border-bottom-style: solid;
+border-width: 0.5px;
+margin-bottom: 20px;
+margin-top: 100px;
+align-items: stretch;
+justify-content: flex-start;
+}
+.p-Home.Flex70 {
+display: none;
+height: 200px;
+min-width: 100%;
+background-color: #060606;
+flex-direction: column;
+border-bottom-left-radius: ;
+border-color: #ffffff;
+border-radius: ;
+border-bottom-width: 2px;
+border-bottom-color: #ffffffff;
+border-bottom-style: solid;
+border-width: 0.5px;
+margin-bottom: 20px;
+margin-top: 100px;
+position: static;
+}
+.p-Home.Flex72 {
+display: flex;
+height: ;
+min-width: 100%;
+background-color: #060606;
+flex-direction: column;
+border-bottom-left-radius: ;
+border-color: transparent;
+border-radius: ;
+border-bottom-width: 100px;
+border-bottom-color: #fff8f880;
+border-bottom-style: solid;
+border-width: 0.5px;
+margin-bottom: 20px;
+margin-top: 10px;
+border-style: solid;
+border-right-color: transparent;
+border-left-color: transparent;
+border-top-color: transparent;
+}
+.p-Home.Flex73 {
+display: flex;
+height: ;
+min-width: 100%;
+background-color: #060606;
+flex-direction: column;
+border-bottom-left-radius: ;
+border-color: #fffdfd80;
+border-radius: ;
+border-bottom-width: 0.5px;
+border-bottom-color: #ffffff80;
+border-bottom-style: solid;
+border-width: 0.5px;
+margin-bottom: 20px;
+margin-top: 10px;
+border-style: solid;
+border-right-color: transparent;
+border-left-color: transparent;
+border-top-color: ;
+}
+.p-Home.Flex74 {
+display: flex;
+height: ;
+min-width: 100%;
+background-color: #060606;
+flex-direction: column;
+border-bottom-left-radius: ;
+border-color: transparent;
+border-radius: ;
+border-bottom-width: 0.5px;
+border-bottom-color: #fff5f580;
+border-bottom-style: solid;
+border-width: 0.5px;
+margin-bottom: 20px;
+margin-top: 10px;
+border-style: solid;
+border-right-color: transparent;
+border-left-color: transparent;
+border-top-color: transparent;
+}
+.p-Home.Flex75 {
+display: flex;
+height: ;
+min-width: 100%;
+background-color: #060606;
+flex-direction: column;
+border-bottom-left-radius: ;
+border-color: #ffffff;
+border-radius: ;
+border-bottom-width: 2px;
+border-bottom-color: #ffffffff;
+border-bottom-style: solid;
+border-width: 0.5px;
+margin-bottom: 20px;
+margin-top: 10px;
+}
+.p-Home.Flex58 {
+display: flex;
+width: 400px;
+position: sticky;
+left: 20px;
+top: 20px;
+}
+.p-Home.Div23 {
+background-color: #bf1b1b;
+width: 300px;
+height: 200px;
+display: none;
+}
+.p-Home.Div22 {
+background-color: #bf1b1b;
+width: 300px;
+height: 200px;
+display: none;
+}
+.p-Home.Div20 {
+background-color: #ffffff;
+width: ;
+height: 200px;
+margin-left: ;
+margin-right: ;
+margin-bottom: ;
+min-width: 100%;
+max-width: ;
+display: none;
+}
+.p-Home.Flex60 {
+display: none;
+height: 200px;
+min-width: 100%;
+background-color: #e49696;
+}
+.p-Home.Div25 {
+background-color: #030303;
+position: sticky;
+top: 50px;
+width: 300px;
+margin-top: 50px;
+margin-left: 50px;
+}
+.p-Home.Flex76 {
+display: flex;
+min-width: 85%;
+padding-top: 80px;
+padding-bottom: ;
+width: ;
+max-width: 85px;
+align-self: auto;
+align-content: stretch;
+margin-left: 90px;
+margin-right: ;
+justify-content: space-between;
+}
+.p-Home.Flex77 {
+display: flex;
+min-width: 50%;
+flex-direction: column;
+justify-content: space-between;
+}
+.p-Home.Flex78 {
+display: flex;
+justify-content: space-between;
+min-width: 50%;
+flex-direction: column;
+}
+.p-Home.Flex79 {
+display: flex;
+min-width: 100%;
+height: 800px;
+background-color: #ffffff;
+align-items: stretch;
+justify-content: space-around;
+}
+.p-Home.Flex85 {
+display: flex;
+background-color: #ffffff;
+margin-top: 180px;
+margin-bottom: 180px;
+padding-left: ;
+margin-right: 100px;
+width: 338px;
+margin-left: 10px;
+flex-direction: column;
+justify-content: space-between;
+}
+.p-Home.Flex89 {
+display: flex;
+margin-left: 115px;
+margin-right: ;
+max-width: 80%;
+min-width: px;
+justify-content: flex-start;
+align-content: stretch;
+margin-bottom: 80px;
+}
+.p-Home.Flex90 {
+display: flex;
+min-width: 50%;
+flex-direction: column;
+margin-right: 10px;
+}
+.p-Home.Flex92 {
+display: flex;
+flex-direction: column;
+}
+.p-Home.Flex94 {
+display: flex;
+justify-content: space-between;
+border-bottom-width: 0.5px;
+border-bottom-style: solid;
+border-bottom-color: #00000040;
+margin-bottom: 20px;
+border-width: 0.5px;
+border-style: solid;
+border-top-color: transparent;
+border-color: #01010105;
+border-top-style: solid;
+border-left-width: 1px;
+border-left-style: solid;
+border-left-color: transparent;
+border-right-width: 1px;
+border-right-style: solid;
+border-right-color: transparent;
+border-top-width: 1px;
+}
+.p-Home.Flex97 {
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+}
+.p-Home.Flex98 {
+display: flex;
+justify-content: flex-end;
+align-items: center;
+padding-right: 20px;
+padding-left: 10px;
+flex-direction: column;
+}
+.p-Home.Flex102 {
+display: flex;
+justify-content: space-between;
+border-bottom-width: 0.5px;
+border-bottom-style: solid;
+border-bottom-color: #0a090940;
+margin-bottom: 20px;
+border-width: 0.5px;
+border-style: solid;
+border-color: #00000006;
+}
+.p-Home.Flex100 {
+display: flex;
+justify-content: flex-end;
+align-items: center;
+padding-right: 20px;
+padding-left: 10px;
+flex-direction: column;
+}
+.p-Home.Flex101 {
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+}
+.p-Home.Flex105 {
+display: flex;
+justify-content: space-between;
+border-bottom-width: 0.5px;
+border-bottom-style: solid;
+border-bottom-color: #0b0a0a40;
+margin-bottom: 20px;
+border-color: transparent;
+}
+.p-Home.Flex103 {
+display: flex;
+justify-content: flex-end;
+align-items: center;
+padding-right: 20px;
+padding-left: 10px;
+flex-direction: column;
+}
+.p-Home.Flex104 {
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+}
+.p-Home.Flex99 {
+display: flex;
+}
+.p-Home.Flex121 {
+display: flex;
+min-width: 50%;
+flex-direction: column;
+}
+.p-Home.Flex119 {
+display: flex;
+}
+.p-Home.Flex120 {
+display: flex;
+flex-direction: column;
+}
+.p-Home.Flex118 {
+display: flex;
+justify-content: space-between;
+border-bottom-width: 0.5px;
+border-bottom-style: solid;
+border-bottom-color: #13121240;
+margin-bottom: 20px;
+border-style: solid;
+border-color: #07070705;
+border-width: 0.5px;
+border-top-color: transparent;
+border-right-color: transparent;
+border-left-color: transparent;
+}
+.p-Home.Flex114 {
+display: flex;
+justify-content: flex-end;
+align-items: center;
+padding-right: 20px;
+padding-left: 10px;
+flex-direction: column;
+max-width: 40%;
+}
+.p-Home.Flex115 {
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+max-width: ;
+min-width: 60%;
+}
+.p-Home.Flex122 {
+display: flex;
+max-width: 10%;
+border-color: transparent;
+align-self: center;
+max-height: 100%;
+min-width: 17%;
+min-height: 100%;
+align-items: center;
+}
+.p-Home.Flex126 {
+display: flex;
+justify-content: space-between;
+border-bottom-width: 0.5px;
+border-bottom-style: solid;
+border-bottom-color: #NaNNaN0a40;
+margin-bottom: 20px;
+border-width: 0.5px;
+border-style: solid;
+border-color: #07070705;
+}
+.p-Home.Flex123 {
+display: flex;
+max-width: 10%;
+border-color: transparent;
+align-self: center;
+max-height: 100%;
+min-width: 17%;
+min-height: 100%;
+align-items: center;
+}
+.p-Home.Flex124 {
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+max-width: ;
+min-width: 60%;
+}
+.p-Home.Flex125 {
+display: flex;
+justify-content: flex-end;
+align-items: center;
+padding-right: 20px;
+padding-left: 10px;
+flex-direction: column;
+max-width: 40%;
+}
+.p-Home.Flex130 {
+display: flex;
+justify-content: space-between;
+border-bottom-width: 0.5px;
+border-bottom-style: solid;
+border-bottom-color: #07070740;
+margin-bottom: 20px;
+border-width: 0.5px;
+border-style: solid;
+border-color: #01010105;
+}
+.p-Home.Flex127 {
+display: flex;
+max-width: 10%;
+border-color: transparent;
+align-self: center;
+max-height: 100%;
+min-width: 17%;
+min-height: 100%;
+align-items: center;
+}
+.p-Home.Flex128 {
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+max-width: ;
+min-width: 60%;
+}
+.p-Home.Flex129 {
+display: flex;
+justify-content: flex-end;
+align-items: center;
+padding-right: 20px;
+padding-left: 10px;
+flex-direction: column;
+max-width: 40%;
+}
+.p-Home.Flex95 {
+display: none;
+border-color: transparent;
+margin-top: 30px;
+}
+.p-Home.Flex116 {
+display: flex;
+justify-content: space-between;
+border-bottom-width: 0.5px;
+border-bottom-style: solid;
+border-bottom-color: #00000040;
+}
+.p-Home.Flex110 {
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+}
+.p-Home.Flex111 {
+display: flex;
+justify-content: flex-end;
+align-items: center;
+padding-right: 20px;
+padding-left: 10px;
+flex-direction: column;
+}
+.p-Home.Flex117 {
+display: flex;
+justify-content: space-between;
+border-bottom-width: 0.5px;
+border-bottom-style: solid;
+border-bottom-color: #00000040;
+}
+.p-Home.Flex112 {
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+}
+.p-Home.Flex113 {
+display: flex;
+justify-content: flex-end;
+align-items: center;
+padding-right: 20px;
+padding-left: 10px;
+flex-direction: column;
+}
+.p-Home.Flex137 {
+display: none;
+margin-top: 100px;
+margin-bottom: 200px;
+min-width: 100%;
+align-items: center;
+justify-content: center;
+}
+.p-Home.Flex138 {
+display: none;
+padding-top: 80px;
+padding-bottom: 160px;
+margin-left: 130px;
+margin-right: 130px;
+align-items: stretch;
+justify-content: flex-end;
+align-content: stretch;
+width: ;
+height: ;
+margin-bottom: ;
+min-width: ;
+max-width: ;
+}
+.p-Home.Flex141 {
+display: flex;
+background-color: #000000ff;
+flex-direction: column;
+}
+.p-Home.Flex140 {
+display: flex;
+margin-left: 138px;
+margin-right: 138px;
+padding-top: 80px;
+flex-direction: column;
+align-items: center;
+align-content: center;
+margin-bottom: 120px;
+background-color: #c64c4c;
+min-width: px;
+max-width: ;
+width: ;
+height: 183px;
+border-color: transparent;
+margin-top: ;
+justify-content: flex-end;
+}
+.p-Home.Flex143 {
+display: flex;
+flex-direction: row;
+background-color: #bd4949;
+margin-bottom: 100px;
+justify-content: space-around;
+}
+.p-Home.Flex144 {
+display: flex;
+flex-direction: column;
+}
+.p-Home.Image5 {
+width: 0px;
+height: 0px;
+background-image: url("/app-assets/Doc1_page-0001%20(2).jpg");
+background-position-y: 50%;
+background-position-x: 50%;
+background-repeat: space;
+}
+.p-Home.Flex133 {
+display: none;
+}
+.p-Home.Flex134 {
+display: none;
+min-width: 100%;
+}
+.p-Home.Image_Block {
+display: flex;
+flex-direction: row;
+max-width: ;
+max-height: px;
+min-width: 30%;
+background-image: url("/app-assets/image_atri_2_page-0001.jpg");
+width: ;
+min-height: 500px;
+overflow: visible;
+box-sizing: content-box;
+padding-left: ;
+margin-left: 30px;
+margin-right: 0px;
+height: ;
+background-position-y: 50%;
+background-position-x: 50%;
+background-clip: content-box;
+-webkit-background-clip: content-box;
+background-origin: border-box;
+background-attachment: local;
+background-repeat: no-repeat;
+border-color: transparent;
+}
+.p-Home.First_Block_Text {
+line-height: 110%;
+font-family: IBM Plex Sans;
+font-weight: 700;
+font-size: 75px;
+color: #ff0303ff;
+width: 700px;
+}
+.p-Home.TextBox17 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+font-size: 75px;
+line-height: 110%;
+width: 700px;
+}
+.p-Home.TextBox18 {
+font-size: 22px;
+font-family: IBM Plex Sans;
+font-weight: 300;
+line-height: 150%;
+margin-top: 25px;
+}
+.p-Home.TextBox19 {
+font-size: 22px;
+font-family: IBM Plex Sans;
+font-weight: 300;
+line-height: 150%;
+margin-bottom: 25px;
+}
+.p-Home.TextBox20 {
+line-height: 110%;
+font-family: IBM Plex Sans;
+font-weight: 700;
+font-size: 75px;
+width: 700px;
+}
+.p-Home.Download_CV {
+color: #000000ff;
+background-color: #00204b00;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 18px;
+border-radius: 4px;
+outline: none;
+font-weight: 600;
+text-align: center;
+border-width: 1px;
+border-style: none;
+border-color: #F1945A;
+cursor: pointer;
+user-select: none;
+font-family: IBM Plex Sans;
+width: ;
+height: 40px;
+margin-top: ;
+margin-left: 10px;
+margin-right: ;
+}
+.p-Home.Book_a_Call {
+color: #fff;
+background-color: #000000ff;
+padding-top: 10px;
+padding-left: 20px;
+padding-bottom: 10px;
+padding-right: 20px;
+font-size: 18px;
+border-radius: 2px;
+outline: none;
+font-weight: 500;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #1890ff;
+cursor: pointer;
+user-select: none;
+margin-left: 10px;
+margin-right: 10px;
+box-sizing: content-box;
+font-family: IBM Plex Sans;
+box-shadow: #fffo15ff;
+}
+.p-Home.Div27 {
+width: 20px;
+height: 20px;
+display: none;
+position: relative;
+color: #ffffff;
+background-color: #d13030;
+background-image: url("/app-assets/Doc1_page-0001%20(11).jpg");
+background-position-y: 50%;
+background-position-x: 50%;
+border-radius: 50%;
+}
+.p-Home.Div28 {
+width: 40px;
+height: 30px;
+display: none;
+position: relative;
+color: #ffffff;
+background-color: #d13030;
+background-image: url("/app-assets/Doc1_page-0001%20(12).jpg");
+background-position-y: 50%;
+background-position-x: 50%;
+border-radius: 0px;
+margin-left: ;
+outline-width: 0px;
+border-style: none;
+}
+.p-Home.Div31 {
+width: 40px;
+height: 50px;
+display: inline;
+position: relative;
+color: #ffffff;
+background-color: #d13030;
+background-image: url("/app-assets/Doc1_page-0001%20(13).jpg");
+background-position-y: 50%;
+background-position-x: 50%;
+border-radius: 500%;
+margin-left: 0px;
+outline-width: 0px;
+border-style: none;
+}
+.p-Home.Div10 {
+width: 140px;
+height: 31px;
+background-image: url("/app-assets/Doc1_page-0001%20(2).jpg");
+background-position-y: 50%;
+background-position-x: 50%;
+border-color: transparent;
+}
+.p-Home.Div12 {
+width: 140px;
+height: 31px;
+background-image: url("/app-assets/Doc1_page-0001%20(5).jpg");
+background-position-y: 48.8%;
+background-position-x: 50%;
+border-color: transparent;
+}
+.p-Home.Div13 {
+width: 140px;
+height: 31px;
+background-image: url("/app-assets/Doc1_page-0001%20(6).jpg");
+background-position-y: 48.3%;
+background-position-x: 50%;
+border-color: transparent;
+}
+.p-Home.Div14 {
+width: 140px;
+height: 31px;
+background-image: url("/app-assets/Doc1_page-0001%20(7).jpg");
+background-position-y: 49.1%;
+background-position-x: 50%;
+border-color: transparent;
+}
+.p-Home.TextBox21 {
+font-size: 18px;
+font-family: IBM Plex Sans;
+font-weight: 500;
+text-align: center;
+}
+.p-Home.TextBox11 {
+;
+}
+.p-Home.TextBox13 {
+;
+}
+.p-Home.TextBox14 {
+align-self: auto;
+margin-bottom: 18px;
+font-size: 32px;
+color: ;
+font-family: IBM Plex Sans;
+font-weight: 700;
+width: 400px;
+height: 50px;
+margin-top: ;
+padding-top: ;
+}
+.p-Home.TextBox5 {
+cursor: pointer;
+}
+.p-Home.TextBox6 {
+cursor: pointer;
+}
+.p-Home.TextBox7 {
+cursor: pointer;
+}
+.p-Home.TextBox8 {
+cursor: pointer;
+}
+.p-Home.TextBox9 {
+cursor: pointer;
+box-sizing: content-box;
+}
+.p-Home.TextBox10 {
+;
+}
+.p-Home.Image2 {
+width: 32px;
+}
+.p-Home.TextBox1 {
+;
+}
+.p-Home.TextBox2 {
+;
+}
+.p-Home.TextBox3 {
+;
+}
+.p-Home.TextBox4 {
+;
+}
+.p-Home.TextBox22 {
+font-family: IBM Plex Sans;
+font-size: 32px;
+font-weight: 600;
+color: #f60404ff;
+}
+.p-Home.TextBox23 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+font-size: 54px;
+text-align: center;
+}
+.p-Home.TextBox24 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+font-size: 54px;
+text-align: center;
+}
+.p-Home.TextBox48 {
+font-size: 24px;
+line-height: 110%;
+margin-top: 15px;
+margin-bottom: 15px;
+font-family: IBM Plex Sans;
+font-weight: 700;
+}
+.p-Home.Div8 {
+width: 70px;
+height: 70px;
+background-image: url("/app-assets/first_atri_icon.svg");
+background-position-y: 50%;
+background-position-x: 50%;
+border-color: transparent;
+}
+.p-Home.TextBox49 {
+font-size: 16px;
+line-height: 28px;
+font-family: IBM Plex Sans;
+font-weight: 300;
+}
+.p-Home.TextBox50 {
+font-size: 16px;
+line-height: 28px;
+font-family: IBM Plex Sans;
+font-weight: 300;
+}
+.p-Home.TextBox51 {
+font-size: 16px;
+line-height: 28px;
+font-family: IBM Plex Sans;
+font-weight: 300;
+}
+.p-Home.TextBox52 {
+font-size: 16px;
+line-height: 28px;
+font-family: IBM Plex Sans;
+font-weight: 700;
+}
+.p-Home.TextBox53 {
+font-size: 16px;
+line-height: 28px;
+font-family: IBM Plex Sans;
+font-weight: 700;
+}
+.p-Home.TextBox54 {
+font-size: 16px;
+line-height: 28px;
+font-family: IBM Plex Sans;
+font-weight: 700;
+}
+.p-Home.TextBox61 {
+font-size: 24px;
+line-height: 110%;
+margin-top: 15px;
+margin-bottom: 15px;
+font-family: IBM Plex Sans;
+font-weight: 700;
+}
+.p-Home.Div6 {
+width: 70px;
+height: 70px;
+background-image: url("/app-assets/second_atri_icon.svg");
+background-position-y: 30%;
+background-position-x: 50%;
+border-color: transparent;
+}
+.p-Home.TextBox55 {
+font-size: 16px;
+line-height: 28px;
+font-family: IBM Plex Sans;
+font-weight: 700;
+}
+.p-Home.TextBox56 {
+font-size: 16px;
+line-height: 28px;
+font-family: IBM Plex Sans;
+font-weight: 700;
+}
+.p-Home.TextBox57 {
+font-size: 16px;
+line-height: 28px;
+font-family: IBM Plex Sans;
+font-weight: 700;
+}
+.p-Home.TextBox58 {
+font-size: 16px;
+line-height: 28px;
+font-family: IBM Plex Sans;
+font-weight: 300;
+}
+.p-Home.TextBox59 {
+font-size: 16px;
+line-height: 28px;
+font-family: IBM Plex Sans;
+font-weight: 300;
+}
+.p-Home.TextBox60 {
+font-size: 16px;
+line-height: 28px;
+font-family: IBM Plex Sans;
+font-weight: 300;
+}
+.p-Home.TextBox68 {
+font-size: 24px;
+line-height: 110%;
+margin-top: 15px;
+margin-bottom: 15px;
+font-family: IBM Plex Sans;
+font-weight: 700;
+}
+.p-Home.Div9 {
+width: 70px;
+height: 70px;
+background-image: url("/app-assets/third_atri_icon.svg");
+background-attachment: scroll;
+background-clip: content-box;
+-webkit-background-clip: content-box;
+background-position-y: 50%;
+background-position-x: 50%;
+border-color: transparent;
+}
+.p-Home.TextBox62 {
+font-size: 16px;
+line-height: 28px;
+font-family: IBM Plex Sans;
+font-weight: 700;
+}
+.p-Home.TextBox63 {
+font-size: 16px;
+line-height: 28px;
+font-family: IBM Plex Sans;
+font-weight: 700;
+}
+.p-Home.TextBox64 {
+font-size: 16px;
+line-height: 28px;
+font-family: IBM Plex Sans;
+font-weight: 700;
+}
+.p-Home.TextBox65 {
+font-size: 16px;
+line-height: 28px;
+font-family: IBM Plex Sans;
+font-weight: 300;
+}
+.p-Home.TextBox66 {
+font-size: 16px;
+line-height: 28px;
+font-family: IBM Plex Sans;
+font-weight: 300;
+}
+.p-Home.TextBox67 {
+font-size: 16px;
+line-height: 28px;
+font-family: IBM Plex Sans;
+font-weight: 300;
+}
+.p-Home.TextBox69 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+font-size: 22px;
+color: #ff0000ff;
+line-height: 100%;
+}
+.p-Home.TextBox70 {
+font-family: IBM Plex Sans;
+font-size: 54px;
+line-height: 110%;
+font-weight: 700;
+}
+.p-Home.TextBox71 {
+font-family: IBM Plex Sans;
+font-size: 54px;
+line-height: 110%;
+font-weight: 700;
+}
+.p-Home.Button3 {
+color: #fff;
+background-color: #000000;
+padding-top: 20px;
+padding-left: 30px;
+padding-bottom: 20px;
+padding-right: 30px;
+font-size: 20px;
+border-radius: 2px;
+outline: none;
+font-weight: 600;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #1890ff;
+cursor: pointer;
+user-select: none;
+line-height: 130%;
+font-family: IBM Plex Sans;
+min-width: 100%;
+max-height: 90%;
+}
+.p-Home.Image1 {
+width: 250px;
+cursor: pointer;
+align-self: center;
+}
+.p-Home.First_Block_Image {
+align-self: auto;
+}
+.p-Home.Image11 {
+width: 70px;
+height: 70px;
+background-image: url("/app-assets/first_atri_icon.svg");
+}
+.p-Home.Image12 {
+width: 70px;
+height: 70px;
+background-color: ;
+}
+.p-Home.Image13 {
+width: 70px;
+height: 70px;
+background-image: url("/app-assets/third_atri_icon.svg");
+}
+.p-Home.Upload1 {
+align-items: center;
+color: #fff;
+background-color: #1890ff;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+border-width: 1px;
+border-style: solid;
+border-color: #1890ff;
+cursor: pointer;
+user-select: none;
+column-gap: 12px;
+}
+.p-Home.Upload2 {
+align-items: center;
+color: #fff;
+background-color: #1890ff;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+border-width: 1px;
+border-style: solid;
+border-color: #1890ff;
+cursor: pointer;
+user-select: none;
+column-gap: 12px;
+}
+.p-Home.Upload3 {
+align-items: center;
+color: #fff;
+background-color: #1890ff;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+border-width: 1px;
+border-style: solid;
+border-color: #1890ff;
+cursor: pointer;
+user-select: none;
+column-gap: 12px;
+}
+.p-Home.Carousel1 {
+height: 300px;
+width: 486px;
+float: none;
+overflow: visible;
+min-width: 486px;
+min-height: 300px;
+}
+.p-Home.Carousel9 {
+height: 300px;
+width: 486px;
+float: none;
+overflow: visible;
+min-width: 486px;
+min-height: 300px;
+}
+.p-Home.Carousel10 {
+height: 300px;
+width: 486px;
+float: none;
+overflow: visible;
+min-width: 486px;
+min-height: 300px;
+}
+.p-Home.Carousel11 {
+height: 300px;
+width: 486px;
+float: none;
+overflow: visible;
+min-width: 486px;
+min-height: 300px;
+}
+.p-Home.Carousel12 {
+height: 300px;
+width: 486px;
+float: none;
+overflow: visible;
+min-width: 486px;
+min-height: 300px;
+}
+.p-Home.TextBox73 {
+position: relative;
+float: none;
+top: 10px;
+z-index: 3;
+}
+.p-Home.Image4 {
+;
+}
+.p-Home.Image6 {
+;
+}
+.p-Home.Image7 {
+;
+}
+.p-Home.Button4 {
+color: #fff;
+background-color: #1890ff;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #1890ff;
+cursor: pointer;
+user-select: none;
+position: static;
+left: 10px;
+top: 10px;
+}
+.p-Home.experiment_button {
+color: #fff;
+background-color: #1890ff;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #1890ff;
+cursor: pointer;
+user-select: none;
+position: sticky;
+top: 10px;
+left: 10px;
+}
+.p-Home.Cascader1 {
+width: 160px;
+}
+.p-Home.Dropdown1 {
+;
+}
+.p-Home.Carousel13 {
+height: 540px;
+width: 800px;
+box-sizing: content-box;
+padding-left: ;
+padding-bottom: ;
+background-image: url("/app-assets/WhatsApp%20Image%202022-12-05%20at%2021.56.54.jpeg");
+background-position-y: 50%;
+background-position-x: 50%;
+overflow: auto;
+font-family: IBM Plex Sans;
+font-weight: 400;
+font-size: 28px;
+text-align: center;
+color: #cb0000ff;
+line-height: 150%;
+word-wrap: break-word;
+}
+.p-Home.Div24 {
+width: 300px;
+height: 200px;
+position: sticky;
+left: 20px;
+margin-top: ;
+background-color: #bf5959;
+display: none;
+}
+.p-Home.TextBox75 {
+min-width: 100%;
+min-height: 100%;
+font-family: IBM Plex Sans;
+font-weight: 600;
+font-size: 34px;
+text-align: center;
+line-height: 200%;
+color: #ff0c0c;
+}
+.p-Home.TextBox77 {
+min-width: 100%;
+min-height: 100%;
+font-family: IBM Plex Sans;
+font-weight: 600;
+font-size: 32px;
+text-align: center;
+line-height: 200%;
+}
+.p-Home.TextBox78 {
+min-width: 100%;
+min-height: 100%;
+font-family: IBM Plex Sans;
+font-weight: 600;
+font-size: 30px;
+text-align: center;
+line-height: 200%;
+}
+.p-Home.Button6 {
+color: #fff;
+background-color: #1890ff;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #1890ff;
+cursor: pointer;
+user-select: none;
+}
+.p-Home.TextBox79 {
+font-family: IBM Plex Sans;
+font-weight: 300;
+font-size: 16px;
+line-height: 100%;
+color: #ffffff;
+}
+.p-Home.TextBox80 {
+font-size: 28px;
+line-height: 36px;
+font-family: IBM Plex Sans;
+font-weight: 700;
+margin-top: 10px;
+margin-bottom: ;
+color: #fcfcfc;
+}
+.p-Home.TextBox81 {
+font-size: 28px;
+line-height: 36px;
+font-family: IBM Plex Sans;
+font-weight: 700;
+margin-top: ;
+margin-bottom: 10px;
+color: #ffffff;
+}
+.p-Home.TextBox82 {
+font-size: 18px;
+font-family: IBM Plex Sans;
+font-weight: 500;
+margin-top: 20px;
+color: #ffffff;
+}
+.p-Home.Div26 {
+width: 20px;
+height: 20px;
+display: none;
+position: relative;
+left: 120px;
+bottom: 20px;
+color: #ffffff;
+background-color: #d13030;
+background-image: url("/app-assets/Doc1_page-0001%20(11).jpg");
+background-position-y: 50%;
+background-position-x: 50%;
+border-radius: 50%;
+}
+.p-Home.Div30 {
+width: 40px;
+height: 50px;
+display: inline;
+position: relative;
+left: 50px;
+bottom: 35px;
+color: #ffffff;
+background-color: #d13030;
+background-image: url("/app-assets/Doc1_page-0001%20(13).jpg");
+background-position-y: 50%;
+background-position-x: 50%;
+border-radius: 500%;
+margin-left: 100px;
+outline-width: 0px;
+border-style: none;
+}
+.p-Home.Flex63 {
+display: none;
+height: 200px;
+min-width: 100%;
+background-color: #e49696;
+}
+.p-Home.Div40 {
+width: 30px;
+height: 50px;
+display: inline;
+position: relative;
+left: 50px;
+bottom: 35px;
+color: #ffffff;
+background-color: #d13030;
+background-image: url("/app-assets/Doc1_page-0001%20(13).jpg");
+background-position-y: 50%;
+background-position-x: 50%;
+border-radius: 500%;
+margin-left: 100px;
+outline-width: 0px;
+border-style: none;
+}
+.p-Home.Div41 {
+width: 20px;
+height: 20px;
+display: none;
+position: relative;
+left: 120px;
+bottom: 20px;
+color: #ffffff;
+background-color: #d13030;
+background-image: url("/app-assets/Doc1_page-0001%20(11).jpg");
+background-position-y: 50%;
+background-position-x: 50%;
+border-radius: 50%;
+}
+.p-Home.TextBox99 {
+font-size: 18px;
+font-family: IBM Plex Sans;
+font-weight: 500;
+margin-top: 20px;
+color: #ffffff;
+}
+.p-Home.TextBox100 {
+font-size: 28px;
+line-height: 36px;
+font-family: IBM Plex Sans;
+font-weight: 700;
+margin-top: ;
+margin-bottom: 10px;
+color: #ffffff;
+}
+.p-Home.TextBox101 {
+font-size: 28px;
+line-height: 36px;
+font-family: IBM Plex Sans;
+font-weight: 700;
+margin-top: 10px;
+margin-bottom: ;
+color: #fcfcfc;
+}
+.p-Home.TextBox102 {
+font-family: IBM Plex Sans;
+font-weight: 300;
+font-size: 16px;
+line-height: 100%;
+color: #ffffff;
+}
+.p-Home.Div42 {
+width: 30px;
+height: 50px;
+display: inline;
+position: relative;
+left: 50px;
+bottom: 35px;
+color: #ffffff;
+background-color: #d13030;
+background-image: url("/app-assets/Doc1_page-0001%20(13).jpg");
+background-position-y: 50%;
+background-position-x: 50%;
+border-radius: 500%;
+margin-left: 100px;
+outline-width: 0px;
+border-style: none;
+}
+.p-Home.Div43 {
+width: 20px;
+height: 20px;
+display: none;
+position: relative;
+left: 120px;
+bottom: 20px;
+color: #ffffff;
+background-color: #d13030;
+background-image: url("/app-assets/Doc1_page-0001%20(11).jpg");
+background-position-y: 50%;
+background-position-x: 50%;
+border-radius: 50%;
+}
+.p-Home.TextBox103 {
+font-size: 18px;
+font-family: IBM Plex Sans;
+font-weight: 500;
+margin-top: 20px;
+color: #ffffff;
+}
+.p-Home.TextBox104 {
+font-size: 28px;
+line-height: 36px;
+font-family: IBM Plex Sans;
+font-weight: 700;
+margin-top: ;
+margin-bottom: 10px;
+color: #ffffff;
+}
+.p-Home.TextBox105 {
+font-size: 28px;
+line-height: 36px;
+font-family: IBM Plex Sans;
+font-weight: 700;
+margin-top: 10px;
+margin-bottom: ;
+color: #fcfcfc;
+}
+.p-Home.TextBox106 {
+font-family: IBM Plex Sans;
+font-weight: 300;
+font-size: 16px;
+line-height: 100%;
+color: #ffffff;
+}
+.p-Home.Div46 {
+width: 30px;
+height: 50px;
+display: inline;
+position: relative;
+left: 50px;
+bottom: 35px;
+color: #ffffff;
+background-color: #d13030;
+background-image: url("/app-assets/Doc1_page-0001%20(13).jpg");
+background-position-y: 50%;
+background-position-x: 50%;
+border-radius: 500%;
+margin-left: 100px;
+outline-width: 0px;
+border-style: none;
+}
+.p-Home.Div47 {
+width: 20px;
+height: 20px;
+display: none;
+position: relative;
+left: 120px;
+bottom: 20px;
+color: #ffffff;
+background-color: #d13030;
+background-image: url("/app-assets/Doc1_page-0001%20(11).jpg");
+background-position-y: 50%;
+background-position-x: 50%;
+border-radius: 50%;
+}
+.p-Home.TextBox111 {
+font-size: 18px;
+font-family: IBM Plex Sans;
+font-weight: 500;
+margin-top: 20px;
+color: #ffffff;
+}
+.p-Home.TextBox112 {
+font-size: 28px;
+line-height: 36px;
+font-family: IBM Plex Sans;
+font-weight: 700;
+margin-top: ;
+margin-bottom: 10px;
+color: #ffffff;
+}
+.p-Home.TextBox113 {
+font-size: 28px;
+line-height: 36px;
+font-family: IBM Plex Sans;
+font-weight: 700;
+margin-top: 10px;
+margin-bottom: ;
+color: #fcfcfc;
+}
+.p-Home.TextBox114 {
+font-family: IBM Plex Sans;
+font-weight: 300;
+font-size: 16px;
+line-height: 100%;
+color: #ffffff;
+}
+.p-Home.Div44 {
+width: 30px;
+height: 50px;
+display: inline;
+position: relative;
+left: 50px;
+bottom: 35px;
+color: #ffffff;
+background-color: #d13030;
+background-image: url("/app-assets/Doc1_page-0001%20(13).jpg");
+background-position-y: 50%;
+background-position-x: 50%;
+border-radius: 500%;
+margin-left: 100px;
+outline-width: 0px;
+border-style: none;
+}
+.p-Home.Div45 {
+width: 20px;
+height: 20px;
+display: none;
+position: relative;
+left: 120px;
+bottom: 20px;
+color: #ffffff;
+background-color: #d13030;
+background-image: url("/app-assets/Doc1_page-0001%20(11).jpg");
+background-position-y: 50%;
+background-position-x: 50%;
+border-radius: 50%;
+}
+.p-Home.TextBox107 {
+font-size: 18px;
+font-family: IBM Plex Sans;
+font-weight: 500;
+margin-top: 20px;
+color: #ffffff;
+}
+.p-Home.TextBox108 {
+font-size: 28px;
+line-height: 36px;
+font-family: IBM Plex Sans;
+font-weight: 700;
+margin-top: ;
+margin-bottom: 10px;
+color: #ffffff;
+}
+.p-Home.TextBox109 {
+font-size: 28px;
+line-height: 36px;
+font-family: IBM Plex Sans;
+font-weight: 700;
+margin-top: 10px;
+margin-bottom: ;
+color: #fcfcfc;
+}
+.p-Home.TextBox110 {
+font-family: IBM Plex Sans;
+font-weight: 300;
+font-size: 16px;
+line-height: 100%;
+color: #ffffff;
+}
+.p-Home.Div48 {
+width: 40px;
+height: 50px;
+display: inline;
+position: relative;
+left: 50px;
+bottom: 35px;
+color: #ffffff;
+background-color: #d13030;
+background-image: url("/app-assets/Doc1_page-0001%20(13).jpg");
+background-position-y: 50%;
+background-position-x: 50%;
+border-radius: 500%;
+margin-left: 100px;
+outline-width: 0px;
+border-style: none;
+}
+.p-Home.Div49 {
+width: 20px;
+height: 20px;
+display: none;
+position: relative;
+left: 120px;
+bottom: 20px;
+color: #ffffff;
+background-color: #d13030;
+background-image: url("/app-assets/Doc1_page-0001%20(11).jpg");
+background-position-y: 50%;
+background-position-x: 50%;
+border-radius: 50%;
+}
+.p-Home.TextBox115 {
+font-size: 18px;
+font-family: IBM Plex Sans;
+font-weight: 500;
+margin-top: 20px;
+color: #ffffff;
+}
+.p-Home.TextBox116 {
+font-size: 28px;
+line-height: 36px;
+font-family: IBM Plex Sans;
+font-weight: 700;
+margin-top: ;
+margin-bottom: 10px;
+color: #ffffff;
+}
+.p-Home.TextBox117 {
+font-size: 28px;
+line-height: 36px;
+font-family: IBM Plex Sans;
+font-weight: 700;
+margin-top: 10px;
+margin-bottom: ;
+color: #fcfcfc;
+}
+.p-Home.TextBox118 {
+font-family: IBM Plex Sans;
+font-weight: 300;
+font-size: 16px;
+line-height: 100%;
+color: #ffffff;
+}
+.p-Home.TextBox135 {
+font-size: 28px;
+line-height: 36px;
+font-family: IBM Plex Sans;
+font-weight: 700;
+margin-top: 10px;
+margin-bottom: ;
+color: #fcfcfc;
+}
+.p-Home.Div50 {
+width: 40px;
+height: 50px;
+display: inline;
+position: relative;
+left: 50px;
+bottom: 35px;
+color: #ffffff;
+background-color: #d13030;
+background-image: url("/app-assets/Doc1_page-0001%20(13).jpg");
+background-position-y: 50%;
+background-position-x: 50%;
+border-radius: 500%;
+margin-left: 100px;
+outline-width: 0px;
+border-style: none;
+}
+.p-Home.Div51 {
+width: 20px;
+height: 20px;
+display: none;
+position: relative;
+left: 120px;
+bottom: 20px;
+color: #ffffff;
+background-color: #d13030;
+background-image: url("/app-assets/Doc1_page-0001%20(11).jpg");
+background-position-y: 50%;
+background-position-x: 50%;
+border-radius: 50%;
+}
+.p-Home.TextBox119 {
+font-size: 18px;
+font-family: IBM Plex Sans;
+font-weight: 500;
+margin-top: 20px;
+color: #ffffff;
+}
+.p-Home.TextBox120 {
+font-size: 28px;
+line-height: 36px;
+font-family: IBM Plex Sans;
+font-weight: 700;
+margin-top: ;
+margin-bottom: 10px;
+color: #ffffff;
+}
+.p-Home.TextBox121 {
+font-size: 28px;
+line-height: 36px;
+font-family: IBM Plex Sans;
+font-weight: 700;
+margin-top: 10px;
+margin-bottom: ;
+color: #fcfcfc;
+}
+.p-Home.TextBox122 {
+font-family: IBM Plex Sans;
+font-weight: 300;
+font-size: 16px;
+line-height: 100%;
+color: #ffffff;
+}
+.p-Home.Div52 {
+width: 40px;
+height: 50px;
+display: inline;
+position: relative;
+left: 50px;
+bottom: 35px;
+color: #ffffff;
+background-color: #d13030;
+background-image: url("/app-assets/Doc1_page-0001%20(13).jpg");
+background-position-y: 50%;
+background-position-x: 50%;
+border-radius: 500%;
+margin-left: 100px;
+outline-width: 0px;
+border-style: none;
+}
+.p-Home.Div53 {
+width: 20px;
+height: 20px;
+display: none;
+position: relative;
+left: 120px;
+bottom: 20px;
+color: #ffffff;
+background-color: #d13030;
+background-image: url("/app-assets/Doc1_page-0001%20(11).jpg");
+background-position-y: 50%;
+background-position-x: 50%;
+border-radius: 50%;
+}
+.p-Home.TextBox123 {
+font-size: 18px;
+font-family: IBM Plex Sans;
+font-weight: 500;
+margin-top: 20px;
+color: #ffffff;
+}
+.p-Home.TextBox124 {
+font-size: 28px;
+line-height: 36px;
+font-family: IBM Plex Sans;
+font-weight: 700;
+margin-top: ;
+margin-bottom: 10px;
+color: #ffffff;
+}
+.p-Home.TextBox125 {
+font-size: 28px;
+line-height: 36px;
+font-family: IBM Plex Sans;
+font-weight: 700;
+margin-top: 10px;
+margin-bottom: ;
+color: #fcfcfc;
+}
+.p-Home.TextBox126 {
+font-family: IBM Plex Sans;
+font-weight: 300;
+font-size: 16px;
+line-height: 100%;
+color: #ffffff;
+}
+.p-Home.Div54 {
+width: 40px;
+height: 50px;
+display: inline;
+position: relative;
+left: 50px;
+bottom: 35px;
+color: #ffffff;
+background-color: #d13030;
+background-image: url("/app-assets/Doc1_page-0001%20(13).jpg");
+background-position-y: 50%;
+background-position-x: 50%;
+border-radius: 500%;
+margin-left: 100px;
+outline-width: 0px;
+border-style: none;
+}
+.p-Home.Div55 {
+width: 20px;
+height: 20px;
+display: none;
+position: relative;
+left: 120px;
+bottom: 20px;
+color: #ffffff;
+background-color: #d13030;
+background-image: url("/app-assets/Doc1_page-0001%20(11).jpg");
+background-position-y: 50%;
+background-position-x: 50%;
+border-radius: 50%;
+}
+.p-Home.TextBox127 {
+font-size: 18px;
+font-family: IBM Plex Sans;
+font-weight: 500;
+margin-top: 20px;
+color: #ffffff;
+}
+.p-Home.TextBox128 {
+font-size: 28px;
+line-height: 36px;
+font-family: IBM Plex Sans;
+font-weight: 700;
+margin-top: ;
+margin-bottom: 10px;
+color: #ffffff;
+}
+.p-Home.TextBox129 {
+font-size: 28px;
+line-height: 36px;
+font-family: IBM Plex Sans;
+font-weight: 700;
+margin-top: 10px;
+margin-bottom: ;
+color: #fcfcfc;
+}
+.p-Home.TextBox130 {
+font-family: IBM Plex Sans;
+font-weight: 300;
+font-size: 16px;
+line-height: 100%;
+color: #ffffff;
+}
+.p-Home.Div21 {
+background-color: #bf1b1b;
+width: 300px;
+height: 200px;
+display: none;
+}
+.p-Home.Flex61 {
+display: none;
+height: 200px;
+min-width: 100%;
+background-color: #e49696;
+}
+.p-Home.TextBox131 {
+font-size: 18px;
+font-family: IBM Plex Sans;
+font-weight: 500;
+color: #fdfdfd;
+}
+.p-Home.TextBox132 {
+margin-bottom: 30px;
+margin-top: 10px;
+font-size: 50px;
+font-family: IBM Plex Sans;
+font-weight: 700;
+color: #ffffff;
+}
+.p-Home.TextBox133 {
+margin-top: 10px;
+font-size: 24px;
+color: #fe0000ff;
+line-height: 100%;
+font-family: IBM Plex Sans;
+font-weight: 700;
+}
+.p-Home.Div58 {
+width: 30px;
+height: 50px;
+display: inline;
+position: relative;
+left: 50px;
+bottom: 35px;
+color: #ffffff;
+background-color: #d13030;
+background-image: url("/app-assets/Doc1_page-0001%20(13).jpg");
+background-position-y: 50%;
+background-position-x: 50%;
+border-radius: 500%;
+margin-left: 100px;
+outline-width: 0px;
+border-style: none;
+}
+.p-Home.Div59 {
+width: 40px;
+height: 50px;
+display: inline-block;
+position: relative;
+bottom: 35px;
+color: #ffffff;
+background-color: #d13030;
+background-image: url("/app-assets/Doc1_page-0001%20(13).jpg");
+background-position-y: 50%;
+background-position-x: 50%;
+border-radius: 500%;
+margin-left: ;
+outline-width: 0px;
+border-style: none;
+right: 20px;
+}
+.p-Home.TextBox136 {
+font-size: 32px;
+font-family: IBM Plex Sans;
+font-weight: 700;
+color: #ff0000ff;
+line-height: 100%;
+}
+.p-Home.TextBox137 {
+font-size: 62px;
+font-family: IBM Plex Sans;
+font-weight: 700;
+line-height: 110%;
+}
+.p-Home.TextBox138 {
+font-size: 16px;
+font-family: IBM Plex Sans;
+font-weight: 300;
+line-height: 40px;
+}
+.p-Home.TextBox139 {
+font-size: 16px;
+font-family: IBM Plex Sans;
+font-weight: 300;
+line-height: 40px;
+}
+.p-Home.TextBox140 {
+font-size: 16px;
+font-family: IBM Plex Sans;
+font-weight: 300;
+line-height: 40px;
+}
+.p-Home.Flex80 {
+display: flex;
+background-color: #3b25c6;
+margin-top: 180px;
+margin-bottom: 180px;
+padding-left: ;
+margin-left: 100px;
+width: 338px;
+margin-right: 10px;
+height: ;
+background-image: url("/app-assets/Doc1_page-0001%20(15).jpg");
+background-position-y: 50%;
+background-position-x: 50%;
+border-color: transparent;
+}
+.p-Home.Flex84 {
+display: flex;
+background-color: #3b25c6;
+margin-top: 180px;
+margin-bottom: 180px;
+padding-left: ;
+width: 500px;
+background-image: url("/app-assets/Doc1_page-0001%20(16).jpg");
+background-position-y: 50%;
+background-position-x: 50%;
+border-color: transparent;
+}
+.p-Home.Div70 {
+width: 70px;
+height: 70px;
+background-image: url("/app-assets/Doc1_page-0001%20(24).jpg");
+background-position-y: 50%;
+background-position-x: 50%;
+border-color: transparent;
+position: relative;
+display: none;
+}
+.p-Home.Flex87 {
+display: flex;
+min-height: 48.5%;
+margin-bottom: ;
+padding-bottom: ;
+background-image: url("/app-assets/Doc1_page-0001%20(18).jpg");
+background-position-y: 50%;
+background-position-x: 50%;
+border-color: transparent;
+}
+.p-Home.Flex88 {
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+min-height: 48.5%;
+margin-top: ;
+padding-top: 10px;
+background-image: url("/app-assets/Doc1_page-0001%20(19).jpg");
+background-position-y: 50%;
+background-position-x: 50%;
+border-color: transparent;
+}
+.p-Home.Flex91 {
+display: none;
+min-width: 50%;
+}
+.p-Home.TextBox141 {
+font-size: 36px;
+font-family: IBM Plex Sans;
+font-weight: 700;
+line-height: 100%;
+margin-bottom: 30px;
+text-align: center;
+}
+.p-Home.TextBox142 {
+font-family: IBM Plex Sans;
+font-size: 24px;
+font-weight: 600;
+line-height: 110%;
+}
+.p-Home.TextBox143 {
+font-size: 16px;
+line-height: 130%;
+font-family: IBM Plex Sans;
+font-weight: 300;
+margin-top: 5px;
+padding-bottom: 20px;
+margin-bottom: 15px;
+}
+.p-Home.TextBox144 {
+font-family: IBM Plex Sans;
+font-size: 16px;
+line-height: 130%;
+font-weight: 300;
+margin-right: ;
+width: ;
+}
+.p-Home.Div60 {
+width: 50px;
+height: 50px;
+background-image: url("/app-assets/Doc1_page-0001%20(21).jpg");
+background-position-y: 50%;
+background-position-x: 50%;
+border-color: transparent;
+position: relative;
+left: 20px;
+bottom: 15px;
+}
+.p-Home.Div62 {
+width: 50px;
+height: 50px;
+background-image: url("/app-assets/Doc1_page-0001%20(21).jpg");
+background-position-y: 50%;
+background-position-x: 50%;
+border-color: transparent;
+position: relative;
+left: 20px;
+bottom: 15px;
+}
+.p-Home.TextBox146 {
+font-family: IBM Plex Sans;
+font-size: 16px;
+line-height: 130%;
+font-weight: 300;
+}
+.p-Home.TextBox147 {
+font-size: 16px;
+line-height: 130%;
+font-family: IBM Plex Sans;
+font-weight: 300;
+margin-top: 5px;
+padding-bottom: 20px;
+margin-bottom: 15px;
+}
+.p-Home.TextBox148 {
+font-family: IBM Plex Sans;
+font-size: 24px;
+font-weight: 600;
+line-height: 110%;
+}
+.p-Home.Div63 {
+width: 50px;
+height: 50px;
+background-image: url("/app-assets/Doc1_page-0001%20(21).jpg");
+background-position-y: 50%;
+background-position-x: 50%;
+border-color: transparent;
+position: relative;
+left: 20px;
+bottom: 15px;
+}
+.p-Home.TextBox149 {
+font-family: IBM Plex Sans;
+font-size: 16px;
+line-height: 130%;
+font-weight: 300;
+}
+.p-Home.TextBox150 {
+font-size: 16px;
+line-height: 130%;
+font-family: IBM Plex Sans;
+font-weight: 300;
+margin-top: 5px;
+padding-bottom: 20px;
+margin-bottom: 15px;
+}
+.p-Home.TextBox151 {
+font-family: IBM Plex Sans;
+font-size: 24px;
+font-weight: 600;
+line-height: 110%;
+}
+.p-Home.Div61 {
+background-image: url("/app-assets/Doc1_page-0001%20(22).jpg");
+background-position-y: 50%;
+background-position-x: 50%;
+width: 70px;
+height: 70px;
+border-color: transparent;
+}
+.p-Home.TextBox145 {
+font-size: 34px;
+font-family: IBM Plex Sans;
+font-weight: 700;
+line-height: 100%;
+padding-top: 18px;
+margin-left: 20px;
+}
+.p-Home.TextBox166 {
+font-size: 36px;
+font-family: IBM Plex Sans;
+font-weight: 700;
+line-height: 100%;
+margin-bottom: 30px;
+text-align: center;
+}
+.p-Home.TextBox165 {
+font-size: 34px;
+font-family: IBM Plex Sans;
+font-weight: 700;
+line-height: 100%;
+padding-top: 18px;
+margin-left: 20px;
+}
+.p-Home.Div69 {
+background-image: url("/app-assets/Doc1_page-0001%20(23).jpg");
+background-position-y: 50%;
+background-position-x: 50%;
+width: 70px;
+height: 70px;
+border-color: transparent;
+}
+.p-Home.Div68 {
+width: 50px;
+height: 50px;
+background-image: url("/app-assets/Doc1_page-0001%20(21).jpg");
+background-position-y: 50%;
+background-position-x: 50%;
+border-color: transparent;
+position: relative;
+left: 20px;
+bottom: 15px;
+}
+.p-Home.TextBox162 {
+font-family: IBM Plex Sans;
+font-size: 16px;
+line-height: 130%;
+font-weight: 300;
+}
+.p-Home.TextBox163 {
+font-size: 16px;
+line-height: 130%;
+font-family: IBM Plex Sans;
+font-weight: 300;
+margin-top: 5px;
+padding-bottom: 20px;
+margin-bottom: 15px;
+}
+.p-Home.TextBox164 {
+font-family: IBM Plex Sans;
+font-size: 24px;
+font-weight: 600;
+line-height: 110%;
+}
+.p-Home.Div71 {
+width: 70px;
+height: 70px;
+background-image: url("/app-assets/Doc1_page-0001%20(24).jpg");
+background-position-y: 50%;
+background-position-x: 50%;
+border-color: transparent;
+position: relative;
+max-height: ;
+min-height: ;
+min-width: ;
+}
+.p-Home.Div72 {
+width: 70px;
+height: 70px;
+background-image: url("/app-assets/Doc1_page-0001%20(25).jpg");
+background-position-y: 50%;
+background-position-x: 50%;
+border-color: transparent;
+position: relative;
+max-height: ;
+min-height: ;
+min-width: ;
+}
+.p-Home.TextBox167 {
+font-family: IBM Plex Sans;
+font-size: 24px;
+font-weight: 600;
+line-height: 110%;
+}
+.p-Home.TextBox168 {
+font-size: 16px;
+line-height: 130%;
+font-family: IBM Plex Sans;
+font-weight: 300;
+margin-top: 5px;
+padding-bottom: 20px;
+margin-bottom: 15px;
+}
+.p-Home.TextBox169 {
+font-family: IBM Plex Sans;
+font-size: 16px;
+line-height: 130%;
+font-weight: 300;
+}
+.p-Home.Div73 {
+width: 50px;
+height: 50px;
+background-image: url("/app-assets/Doc1_page-0001%20(21).jpg");
+background-position-y: 50%;
+background-position-x: 50%;
+border-color: transparent;
+position: relative;
+left: 20px;
+bottom: 15px;
+}
+.p-Home.Div74 {
+width: 70px;
+height: 70px;
+background-image: url("/app-assets/Doc1_page-0001%20(26).jpg");
+background-position-y: 50%;
+background-position-x: 50%;
+border-color: transparent;
+position: relative;
+max-height: ;
+min-height: ;
+min-width: ;
+}
+.p-Home.TextBox170 {
+font-family: IBM Plex Sans;
+font-size: 24px;
+font-weight: 600;
+line-height: 110%;
+}
+.p-Home.TextBox171 {
+font-size: 16px;
+line-height: 130%;
+font-family: IBM Plex Sans;
+font-weight: 300;
+margin-top: 5px;
+padding-bottom: 20px;
+margin-bottom: 15px;
+}
+.p-Home.TextBox172 {
+font-family: IBM Plex Sans;
+font-size: 16px;
+line-height: 130%;
+font-weight: 300;
+}
+.p-Home.Div75 {
+width: 50px;
+height: 50px;
+background-image: url("/app-assets/Doc1_page-0001%20(21).jpg");
+background-position-y: 50%;
+background-position-x: 50%;
+border-color: transparent;
+position: relative;
+left: 20px;
+bottom: 15px;
+}
+.p-Home.Flex96 {
+display: flex;
+}
+.p-Home.TextBox156 {
+font-family: IBM Plex Sans;
+font-size: 24px;
+font-weight: 600;
+line-height: 110%;
+}
+.p-Home.TextBox157 {
+font-size: 16px;
+line-height: 130%;
+font-family: IBM Plex Sans;
+font-weight: 300;
+margin-top: 5px;
+padding-bottom: 20px;
+margin-bottom: 15px;
+}
+.p-Home.TextBox158 {
+font-family: IBM Plex Sans;
+font-size: 16px;
+line-height: 130%;
+font-weight: 300;
+}
+.p-Home.Div66 {
+width: 50px;
+height: 50px;
+background-image: url("/app-assets/Doc1_page-0001%20(21).jpg");
+background-position-y: 50%;
+background-position-x: 50%;
+border-color: transparent;
+position: relative;
+left: 25px;
+bottom: 15px;
+}
+.p-Home.TextBox159 {
+font-family: IBM Plex Sans;
+font-size: 24px;
+font-weight: 600;
+line-height: 110%;
+}
+.p-Home.TextBox160 {
+font-size: 16px;
+line-height: 130%;
+font-family: IBM Plex Sans;
+font-weight: 300;
+margin-top: 5px;
+padding-bottom: 20px;
+margin-bottom: 15px;
+}
+.p-Home.TextBox161 {
+font-family: IBM Plex Sans;
+font-size: 16px;
+line-height: 130%;
+font-weight: 300;
+}
+.p-Home.Div67 {
+width: 50px;
+height: 50px;
+background-image: url("/app-assets/Doc1_page-0001%20(21).jpg");
+background-position-y: 50%;
+background-position-x: 50%;
+border-color: transparent;
+position: relative;
+left: 25px;
+bottom: 15px;
+}
+.p-Home.Carousel14 {
+height: 450px;
+width: 900px;
+}
+.p-Home.Modal1 {
+display: none;
+}
+.p-Home.Testimonial2 {
+min-width: ;
+min-height: ;
+width: ;
+height: ;
+max-width: ;
+font-family: IBM Plex Sans;
+font-weight: 600;
+font-size: 36px;
+text-align: left;
+line-height: 130%;
+align-items: stretch;
+justify-content: flex-start;
+align-content: stretch;
+margin-left: ;
+margin-right: ;
+border-color: transparent;
+display: flex;
+}
+.p-Home.TextBox173 {
+font-family: IBM Plex Sans;
+font-weight: 600;
+font-size: 28px;
+color: #ff0000;
+line-height: 100%;
+}
+.p-Home.TextBox174 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+font-size: 54px;
+line-height: 110%;
+margin-top: 20px;
+}
+.p-Home.Accordion1 {
+;
+}
+.p-Home.Accordion2 {
+;
+}
+.p-Home.Accordion3 {
+;
+}
+.p-Home.Accordion4 {
+;
+}
+@media screen and (max-width: 991px) {
+	.p-Home.First_Block.bpt {
+display: none;
+	}
+	.p-Home.Links.bpt {
+display: none;
+	}
+	.p-Home.Flex2.bpt {
+display: none;
+	}
+	.p-Home.Flex3.bpt {
+display: flex;
+	}
+	.p-Home.Menu1.bpt {
+display: flex;
+cursor: pointer;
+	}
+	.p-Home.Flex1.bpt {
+flex-direction: column;
+column-gap: ;
+row-gap: 16px;
+margin-top: 20px;
+align-items: flex-end;
+width: 100px;
+	}
+	.p-Home.Image2.bpt {
+cursor: pointer;
+	}
+}
+@media screen and (max-width: 478px) {
+	.p-Home.Image2.bpt {
+width: 32px;
+	}
+	.p-Home.Image1.bpt {
+width: 250px;
+	}
+}
